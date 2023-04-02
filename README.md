@@ -1,1 +1,2 @@
-# hibernate-examples
+- hibernate-examples
+- Reference: https://www.udemy.com/user/in28minutes/
